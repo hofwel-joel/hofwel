@@ -1,0 +1,1 @@
+Replace the temporary stock URLs in src/main.jsx with your HOFWEL campaign photos when ready.
