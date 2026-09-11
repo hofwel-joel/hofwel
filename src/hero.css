@@ -1,4 +1,9 @@
 /* Heritage luxury hero typography */
+.header {
+  position: sticky;
+  top: 0;
+}
+
 .hero h1{
   font-family: Didot, "Bodoni 72", "Times New Roman", serif;
   font-size: clamp(68px, 8.5vw, 132px);
@@ -8,6 +13,10 @@
 }
 
 @media (max-width: 800px) {
+  .hero img {
+    object-position: 82% center;
+  }
+
   .hero h1 {
     font-size: clamp(58px, 16vw, 92px);
   }
