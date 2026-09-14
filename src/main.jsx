@@ -78,7 +78,7 @@ function App(){
   <footer>
    <div className="footer-main">
     <div><a className="footer-logo" href="#top">HOFWEL</a><p>European Menswear</p></div>
-    <div className="footer-links"><a href="#house">The House</a><a href="#collection">Collection</a><a href="#contact">Contact</a><a href="#">Instagram</a><a href="#">TikTok</a></div>
+    <div className="footer-links"><a href="#house">The House</a><a href="#collection">Collection</a><a href="#contact">Contact</a><a href="https://www.instagram.com/hofwel.house/" target="_blank" rel="noreferrer">Instagram</a><a href="#">TikTok</a></div>
    </div>
    <div className="footer-bottom"><span>© 2026 HOFWEL</span><span>Designed in Spain</span><span>European Menswear</span></div>
   </footer>
