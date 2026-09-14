@@ -36,7 +36,7 @@ function App(){
     <div className="hero-copy">
      <p className="kicker">HOFWEL / EUROPEAN MENSWEAR</p>
      <h1>A new house<br/><em>is taking shape.</em></h1>
-     <a className="discover" href="#house">Discover HOFWEL <span>↘</span></a>
+     <a className="discover" href="#house">Discover HOFWEL</a>
     </div>
    </section>
 
